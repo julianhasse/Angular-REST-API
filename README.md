@@ -1,7 +1,7 @@
 # Angular Rest-API App
 by Julian Hasse
 
-Live version[here](https://ecstatic-sammet-693cc5.netlify.com/) 
+Live version [here](https://ecstatic-sammet-693cc5.netlify.com/) 
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.9.
